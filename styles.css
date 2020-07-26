@@ -1,3 +1,6 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
 .logo {
     margin-bottom: 25px;
     margin-top: 200px;
@@ -10,7 +13,11 @@ li {
 }
 li a {
     color: black;
-    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+a .nav-link {
+    color: black;
     font-weight: 400;
 }
 
@@ -53,7 +60,17 @@ ul {
     width: 1.5em;
 }
 
+.navbar a {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    color: black;
+}
 .bot2 {
-    position: relative;
-   
+    margin-bottom: 50px;
+    margin-left: -15px;
+    border-bottom: 1px solid grey;;
+}
+
+.bottomnav {
+    color: orange;
 }
