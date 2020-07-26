@@ -1,0 +1,59 @@
+.logo {
+    margin-bottom: 25px;
+    margin-top: 200px;
+}
+
+li {
+    display: inline;
+    padding: 0 1em;
+    font-size: 14px;
+}
+li a {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+ul {
+    padding-left: 0;
+}
+#search {
+    padding: 12px; 
+    border-radius: 25px;
+    border-width: 1px;
+    border-color: #dfe1e5;
+}
+
+.right {
+    float: right;
+}
+.left {
+    float: left;
+    padding: 0 1em;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
+
+.nav:hover{
+    text-decoration: underline;
+}
+
+.menu {
+    height: 1.5em;
+    width: 1.5em;
+}
+
+.bot2 {
+    position: relative;
+   
+}
